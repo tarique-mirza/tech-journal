@@ -153,9 +153,7 @@ Certificate:
         Version: 3 (0x2)
         Serial Number:
             46:0d:9c:b0:fd:27:0f:6e:34:f2:b5:c3:60:c8:b0:6f:d4:77:23:b9
-        ...
-        ...
-        ...
+        # output truncated for brevity
 ```
 
 Now you can verify everything — version, serial, issuer, subject, validity, extensions — all clearly laid out.
