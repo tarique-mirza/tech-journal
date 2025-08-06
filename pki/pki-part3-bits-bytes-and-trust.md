@@ -1,4 +1,4 @@
-#PKI With No Headache (Part 3): Bits, Bytes, and Trust
+# PKI With No Headache (Part 3): Bits, Bytes, and Trust
 
 ## When PKI Becomes a Black Box
 
